@@ -14,11 +14,6 @@ Weather app to run on **Vercel** with a **serverless function**.
 - Secure API key storage via Vercel environment variables.
 - Deployed to Vercel.
 
-## Deploy
-
-1. Add your OpenWeather API key as `WEATHER_API_KEY` in Vercel.
-2. Deploy the project on Vercel.
-
 ## Project Structure
 
 - `index.html`: Main web interface.
