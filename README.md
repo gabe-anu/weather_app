@@ -1,4 +1,7 @@
 # Weather App
+Submitted by: **Gabriel Anurum-Anyanwu**
+
+Live Demo: [weather_app](https://weather-app-sepia-xi-81.vercel.app/)
 
 Weather app to run on **Vercel** with a **serverless function**.
 
